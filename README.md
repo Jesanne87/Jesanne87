@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Jesanne87&color=orange&style=for-the-badge)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jesanne87&show_icons=true&locale=en&layout=compact" alt="Jesanne87" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jesanne87&show_icons=true&locale=en" alt="Jesanne87" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jesanne87&" alt="Jesanne87" /></p>
